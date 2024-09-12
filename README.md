@@ -3,3 +3,4 @@ SociologyObjectives
 SetupGuide
 NetworkFeatures
 DependenciesList
+CodeExamples
