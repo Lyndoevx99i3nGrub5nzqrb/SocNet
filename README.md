@@ -4,3 +4,4 @@ SetupGuide
 NetworkFeatures
 DependenciesList
 CodeExamples
+ConfigurationSettings
