@@ -5,3 +5,4 @@ NetworkFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide
