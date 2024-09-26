@@ -10,3 +10,4 @@ ErrorHandling
 LicenseDetails
 SociologyFAQ
 Changelog
+TestingInstructions
