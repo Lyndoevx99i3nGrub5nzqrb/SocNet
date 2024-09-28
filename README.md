@@ -11,3 +11,4 @@ LicenseDetails
 SociologyFAQ
 Changelog
 TestingInstructions
+NetworkPerformance
