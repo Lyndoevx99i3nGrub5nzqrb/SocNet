@@ -12,3 +12,4 @@ SociologyFAQ
 Changelog
 TestingInstructions
 NetworkPerformance
+CommunityResources
